@@ -1,90 +1,98 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/HelmerLover/EPG-cl/main/EPG-cl.xml"
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/lared.jpg" group_title="CHILE", LA RED HD
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/lared.jpg" group_title="CHILE", LA RED HD
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvn.jpg" group_title="CHILE", TVN HD
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvn.jpg" group_title="CHILE", TVN HD
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/TVNHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega.jpg" group_title="CHILE", MEGA HD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega.jpg" group_title="CHILE", MEGA HD
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/MEGAHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/chv.jpg" group_title="CHILE", CHV HD
+#EXTINF:-1 tvg-id="CHV.cl" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/chv.jpg" group_title="CHILE", CHV HD
 https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist_4000.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/canal13.jpg" group_title="CHILE", CANAL 13 HD
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/canal13.jpg" group_title="CHILE", CANAL 13 HD
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/CANAL13HD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group_title="CHILE", CINEMAX HD
+#EXTINF:-1 tvg-id="Cinemax.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group_title="CHILE", CINEMAX HD
 #EXTVLCOPT:http-user-agent=ClaroVideoAndroid/4.29.0 (Linux;Android 11)
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/CINEMAXHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/1/1e/2021-presente_%282D%29.png/revision/latest/thumbnail/width/360/height/360?cb=20210803154231&path-prefix=es" group_title="CHILE", DISCOVERY KIDS HD
+#EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/1/1e/2021-presente_%282D%29.png/revision/latest/thumbnail/width/360/height/360?cb=20210803154231&path-prefix=es" group_title="CHILE", DISCOVERY KIDS HD
 http://clbpktstvhls-1.clarovideo.com/bpk-tv/DISCOVERYKIDSHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group_title="CHILE", TNT NOVELAS HD
+#EXTINF:-1 tvg-id="UCV.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png" group_title="CHILE", UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/1/1e/2021-presente_%282D%29.png/revision/latest/thumbnail/width/360/height/360?cb=20210803154231&path-prefix=es" group_title="CHILE", CONTIVISION
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVR.cl" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4534bd9d9a9e5e37ecdd8a/mediaLibrary/photo/0f104acc-6fb2-4629-b468-b5e8231ff2e3-medium-standard-q100.png?v=1749136610" group_title="CHILE", TVR
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group_title="CHILE", TNT NOVELAS HD
 http://clbpktstvhls-1.clarovideo.com/bpk-tv/TBS/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group_title="CHILE", ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="AnimalPlanet.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group_title="CHILE", ANIMAL PLANET HD
 http://clbpktstvhls-1.clarovideo.com/bpk-tv/ANIMALPLANETHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group_title="CHILE", TNT SERIES HD
+#EXTINF:-1 tvg-id="TNTSeries.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group_title="CHILE", TNT SERIES HD
 http://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSERIESHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group_title="CHILE", CNN ESPAÑOL
+#EXTINF:-1 tvg-id="CNNEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group_title="CHILE", CNN ESPAÑOL
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/CNNESPANOL/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.utalca.cl/wp-content/uploads/2023/10/LOGOS-UTALCA-UTalcaTV-10.png" group_title="CHILE", CAMPUSTV TALCA HD
+#EXTINF:-1 tvg-id="CampusTV.cl" tvg-logo="https://tv.utalca.cl/wp-content/uploads/2023/10/LOGOS-UTALCA-UTalcaTV-10.png" group_title="CHILE", CAMPUSTV TALCA HD
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group_title="CHILE", U CHILE TV
+#EXTINF:-1 tvg-id="UChileTV.cl" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group_title="CHILE", U CHILE TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group_title="CHILE", ESPN HD
+#EXTINF:-1 tvg-id="ESPN.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group_title="CHILE", ESPN HD
 http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1687298219839-sc_48x48.webp",Star Channel HD
+#EXTINF:-1 tvg-id="StarChannel.cl" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1687298219839-sc_48x48.webp", Star Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/FOXHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1711575329906-MegaFiccion_[Negro].webp",Mega Ficción
+#EXTINF:-1 tvg-id="MegaFiccion.cl" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1711575329906-MegaFiccion_[Negro].webp", Mega Ficción
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/MEGAFICCION/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1685544739601-space.webp",Space HD
+#EXTINF:-1 tvg-id="Space.cl" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1685544739601-space.webp", Space HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/SPACEHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1687299824360-tm_48x48.webp",Telemundo HD
+#EXTINF:-1 tvg-id="Telemundo.cl" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1687299824360-tm_48x48.webp", Telemundo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/TELEMUNDOHD/hls_fk/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1686777389865-hbo2_48x48.webp",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO2.cl" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1686777389865-hbo2_48x48.webp", HBO 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/HBO2HD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1712162254600-mega2-logo-48x48_.webp",Mega 2 HD
+#EXTINF:-1 tvg-id="Mega2.cl" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1712162254600-mega2-logo-48x48_.webp", Mega 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/MEGA2HD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1687446731760-23_48x48.webp",24 Horas HD
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1687446731760-23_48x48.webp", 24 Horas HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/24HORASHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1685545356287-H-TV.webp",HTV
+#EXTINF:-1 tvg-id="HTV.cl" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1685545356287-H-TV.webp", HTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/HTV/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1686780566929-studio_universal_48x48.webp",Studio Universal HD
+#EXTINF:-1 tvg-id="StudioUniversal.cl" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1686780566929-studio_universal_48x48.webp", Studio Universal HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/STUDIOUNIVERSALHD/hls_fk/index.m3u8
