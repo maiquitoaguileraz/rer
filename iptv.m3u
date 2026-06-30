@@ -54,7 +54,7 @@ https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group_title="CHILE", ESPN HD
 http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1687298219839-sc_48x48.webp", TNT SPORTS HD
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png", TNT SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.clarovideo.com/
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSPHD/hls_fk/index.m3u8
