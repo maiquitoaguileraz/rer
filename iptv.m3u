@@ -17,6 +17,11 @@ https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/canal13.jpg" group_title="CHILE", CANAL 13 HD
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/CANAL13HD/hls_fk/index.m3u8
 
+#EXTINF:-1 tvg-id="ZonaLatina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group_title="CHILE", Zona Latina
+#EXTVLCOPT:http-user-agent=ClaroVideoAndroid/4.29.0 (Linux;Android 11)
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/ZONALATINA/hls_fk/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group_title="CHILE", CINEMAX HD
 #EXTVLCOPT:http-user-agent=ClaroVideoAndroid/4.29.0 (Linux;Android 11)
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/CINEMAXHD/hls_fk/index.m3u8
