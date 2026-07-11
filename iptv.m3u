@@ -9,7 +9,7 @@ https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/TVNHD/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega.jpg" group_title="CHILE", MEGA HD
-https://clbpktstvhls-1.clarovideo.com/bpk-tv/MEGAHD/hls_fk/index.m3u8
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Chilevisión" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/chv.jpg" group_title="CHILE", CHV HD
 https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist_4000.m3u8
